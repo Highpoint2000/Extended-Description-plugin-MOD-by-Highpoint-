@@ -1,4 +1,7 @@
 # FM-DX Webserver Extended Description Plugin MOD-byHighpoint-Version
+
+![image](https://github.com/user-attachments/assets/21d0615d-7c2c-461b-8ed1-333cca14fd91)
+
 Plugin that adds extended description with rich text editing features. Suitable for **FM-DX Webserver 1.2.5** or newer.
 
 ![Extended description showcase](https://github.com/user-attachments/assets/e6487ef9-c3e4-49bb-b46f-d12ef6ce0201)
