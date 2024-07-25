@@ -1,9 +1,13 @@
 /*!
- * ************************************************
- * FM-DX Webserver Extended Description plugin
- * ************************************************
+ * **************************************************************
+ * FM-DX Webserver Extended Description plugin (Highpoint MOD)
+ * **************************************************************
  * Created by NoobishSVK
  * Join our Discord: https://discord.gg/fmdx
+ * 
+ * https://github.com/Highpoint2000/Extended-Description-plugin-MOD-by-Highpoint-
+ *
+ *
  * ************************************************
  *
  * This script extends the functionality of the FM-DX 
