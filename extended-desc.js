@@ -1,8 +1,8 @@
 // Plugin configuration, this is used in the administration when plugins are loaded
 var pluginConfig = {
-    name: 'Extended description',
+    name: 'Extended description (Highpoint MOD)',
     version: '1.0',
-    author: 'NoobishSVK (Highpoint MOD)',
+    author: 'NoobishSVK',
     frontEndPath: 'extended-desc/frontend.js'
 }
 
